@@ -1,19 +1,27 @@
-# Streamlit App
-streamlit==1.32.2
+# Streamlit
+streamlit==1.33.0
 
 # Core
-pandas==2.2.3
+pandas==1.5.3
 numpy==1.26.4
 
 # Machine Learning
-scikit-learn==1.4.2
+scikit-learn==1.2.2
 joblib==1.4.2
-xgboost==2.1.1
 
 # Visualization
-matplotlib==3.9.2
-seaborn==0.13.2
+matplotlib==3.7.5
+seaborn==0.12.2
+
+# Deep Learning
+tensorflow==2.15.1
 
 # Config
 pyyaml==6.0.2
+requests==2.31.0
+
+# TensorFlow compatibility
 protobuf==3.20.3
+
+
+
